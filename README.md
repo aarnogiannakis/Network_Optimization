@@ -8,5 +8,5 @@ The task includes managing transshipment, where containers may need to be unload
 
 More specifically: 
 
-- The problem will be formulated using an edge formulation and will be solved an Integer Programming (IP) problem. The goal is to determine the optimal routes for different commodities, and you'll report the selected routes in a table.
+- Part A: The problem will be formulated using an edge formulation and will be solved an Integer Programming (IP) problem. The goal is to determine the optimal routes for different commodities, and you'll report the selected routes in a table.
 - 
